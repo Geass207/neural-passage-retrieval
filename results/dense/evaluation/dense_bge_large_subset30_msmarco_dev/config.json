@@ -1,0 +1,11 @@
+{
+  "date": "2026-05-01T11:10:25.520265",
+  "dataset": "msmarco",
+  "split": "dev",
+  "model": "BAAI/bge-large-en-v1.5",
+  "top_k": 100,
+  "embeddings_cache": "data/msmarco/dense_embeddings_bge-large-en-v1.5.npz",
+  "n_queries": 2094,
+  "n_corpus": 2652546,
+  "subset_pct": 0.3
+}

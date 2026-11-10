@@ -1,0 +1,16 @@
+{
+  "base_model": "mistralai/Mistral-7B-Instruct-v0.2",
+  "lora_rank": 8,
+  "lora_alpha": 16,
+  "lora_dropout": 0.05,
+  "lr": 0.0002,
+  "epochs": 1,
+  "batch_size": 1,
+  "grad_accum": 32,
+  "warmup_ratio": 0.05,
+  "max_length": 256,
+  "max_train_samples": 10000,
+  "seed": 42,
+  "output_dir": null,
+  "smoke_test": false
+}

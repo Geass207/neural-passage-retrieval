@@ -1,0 +1,9 @@
+{
+  "date": "2026-04-28T17:45:35.920406",
+  "dataset": "msmarco",
+  "split": "dev",
+  "top_k": 100,
+  "index_path": "data/msmarco/bm25_index.pkl",
+  "n_queries": 6980,
+  "n_corpus": 8841823
+}

@@ -1,0 +1,9 @@
+{
+  "model": "BAAI/bge-reranker-base",
+  "max_train_triplets": 5000,
+  "epochs": 1,
+  "batch_size": 2,
+  "max_seq_length": 256,
+  "device": "cuda",
+  "output_path": "results/cross_encoder/training/bge_reranker_ft/best_checkpoint"
+}

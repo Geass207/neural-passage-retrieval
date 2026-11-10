@@ -1,0 +1,443 @@
+[
+  {
+    "qid": "9083",
+    "query": "____________________ is considered the father of modern medicine.",
+    "relevant_pids": [
+      "7067274"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "7067274",
+        "score": 0.8687114715576172,
+        "text": "TRUE. Hippocrates is considered the father of modern medicine because he did not believe that illness was a punishment inflicted by the gods. True False. Weegy: TRUE. [ ",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "pid": "40788",
+        "score": 0.6687473654747009,
+        "text": "These will be the greatest theories of ancient Greece (those of Plato and Aristotle) and of medieval Christianity (Augustine and Aquinas), two early modern ones (Hobbes and Hume), two from more recent modern times (Kant and Mill), and some contemporary ones (Rawls and several successors).",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "45043",
+        "score": 0.6627959609031677,
+        "text": "The Age of Enlightenment or Age of Reason Analysis - ... The 18th century was a period in which all intellectual, political and social matters were developed. These matters involved science, politics, society and philosophy and together they shaped the modern, western view of the world.",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "75920",
+        "score": 0.6591952443122864,
+        "text": "That is something you do not see in early portriture. Although generally classified by most scholars as the last century of the medieval era, the 14th century is generally seen as the beginning of the Renaissance and the beginning of a modern state of mind.",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "45851",
+        "score": 0.6434192061424255,
+        "text": "Aristotle (/ËÃ¦rÉªËstÉtÉl/; Greek: á¼ÏÎ¹ÏÏÎ¿ÏÎ­Î»Î·Ï, pronounced [aristotÃ©lÉËs], AristotÃ©lÄs; 384â322 BC) was an ancient Greek philosopher and scientist born in the city of Stagira, Chalkidice, on the northern periphery of Classical Greece. His father, Nicomachus, died when Aristotl",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "264827",
+    "query": "how long is the flight from chicago to cairo",
+    "relevant_pids": [
+      "7071066"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "7071066",
+        "score": 0.9007925391197205,
+        "text": "Flying time from Chicago, IL to Cairo, Egypt. The total flight duration from Chicago, IL to Cairo, Egypt is 12 hours, 47 minutes. This assumes an average flight speed for a commercial airliner of 500 mph, which is equivalent to 805 km/h or 434 knots. It also adds an extra 30 minutes for take-off and",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "pid": "94713",
+        "score": 0.6796385049819946,
+        "text": "How long is the drive from Chicago, IL to Aurora, IL? The total driving time is 48 minutes. Your trip begins in Chicago, Illinois. It ends in Aurora, Illinois. If you're planning a road trip, you might be interested in seeing the total driving distance from Chicago, IL to Aurora, IL. You can also ca",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "84776",
+        "score": 0.6707115769386292,
+        "text": "Borg El Arab Airport. Borg El Arab International Airport (IATA: HBE, ICAO: HEBA) (Arabic:ÙØ·Ø§Ø± Ø¨Ø±Ø¬ Ø§ÙØ¹Ø±Ø¨ Ø§ÙØ¯ÙÙÙ) is an airport serving Alexandria, Egypt. It is located about 40 km (25 mi) southwest of Alexandria, in Borg El Arab (alternate spellings: Borg Al Arab, Burg Al Arab or Bu",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "47076",
+        "score": 0.6655167937278748,
+        "text": "USO facilities are located in Terminal 2, on the Mezzanine Level, before the security checkpoint. The phone number for the USO at O'Hare International Airport is: (773) 686-7396.",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "84777",
+        "score": 0.6507220268249512,
+        "text": "Borg El Arab Airport is an airport serving Alexandria, Egypt. 131,233.596 ft southwest of Alexandria, in Borg El Arab. The airport also serves the nearby areas of the Nile Delta.",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "14151",
+    "query": "age requirements for name change",
+    "relevant_pids": [
+      "7073772"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "39406",
+        "score": 0.8912827968597412,
+        "text": "Why it won't work: There are limits to how often you can change your name on Google+. The solution: You can change your name three times every 90 days. If you've recently changed your name three times, you may need to wait for up to three months to change it again. Why it won't work: Our system expe",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "86123",
+        "score": 0.8814198970794678,
+        "text": "How long does it take to legally change my name? Name change actions can take anywhere from a day, to six (6) months (sometimes even longer). The time it takes for name change actions to be ordered/decreed varies not only from state to state but from county to county and courthouse to courthouse as ",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "86122",
+        "score": 0.8419211506843567,
+        "text": "back to top. Name change actions can take anywhere from a day, to six (6) months (sometimes even longer). The time it takes for name change actions to be ordered/decreed varies not only from state to state but from county to county and courthouse to courthouse as well.",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "39413",
+        "score": 0.8407344222068787,
+        "text": "If you want to change your name or the name of your child, you can ask the Court for an order changing the legal name. You can then use the court order to change the birth certificate, passport, social security card, driver's license, and other documents.",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "39412",
+        "score": 0.8376321792602539,
+        "text": "1 Limited number of name changes: After you've created or edited your name, you may need to wait for up to three months to change it again. It will depend on how recently you created your profile and when you last changed your name.  Nicknames optional: You can include a nickname together with your ",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "307118",
+    "query": "how much do rear brakes and rotors cost",
+    "relevant_pids": [
+      "7076536"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "33505",
+        "score": 0.9069985151290894,
+        "text": "One way to test your rear drum brakes is to apply the parking brake slightly while driving, because the parking brake uses the drum brakes in the rear. You can do this test if your emergency brake handle is near the center console and it is the style that you pull up with your hand.",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "86555",
+        "score": 0.8991886377334595,
+        "text": "CLICK HERE TO GET FULL ACCESS TO 1989 GEO Tracker TECHNICAL SERVICE BULLETINS! BRAKE SPECIFICATIONS: Brake drum, rotor, caliper, and related specifications for most 1989 GEO Tracker cars and light trucks sold in the U.S. and Canada from 1970+.",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "70977",
+        "score": 0.8941152691841125,
+        "text": "Well heres what it would cost you. pads for the front $22 from autozone, pads/shoes for the rear $25 from autozone. Assuming you need rotors on ALL 4 wheels they are $24 each at Autozone. so we are up to $131.",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "70973",
+        "score": 0.8913386464118958,
+        "text": "No decent repair shop will charge $500.00 just to change the brake pads. On the other hand, if the rotors need serious fixing (beyond the general buffing), that will cause a quote like that pop up. Last year, my brakes and rotors got so bad that I needed to replace them, and that cost about $400.",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "57525",
+        "score": 0.8893110752105713,
+        "text": "How to tell if your brakes need replacing. Generally, brake pads need to be replaced after about 50,000 miles. Some need to be replaced after 25,000, while others can last for 70,000 miles â it all depends on the factors listed above.",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "1065160",
+    "query": "what is a wrongful act for directors and officers",
+    "relevant_pids": [
+      "7163370"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "7163370",
+        "score": 0.9160931706428528,
+        "text": "Wrongful Act Definition - What does Wrongful Act mean? A wrongful act refers to any error or breach of conduct covered under professional liability insurance, which provides the officers and directors of an insured company financial protection from the liability arising from alleged erroneous acts.",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "pid": "42671",
+        "score": 0.7321679592132568,
+        "text": "Repudiation of a contract means a refusal to perform the duty or obligation owed to the other party. Anticipatory Repudiation is an act or declaration before performance is due under a contract that indicates that the party will not perform his or her obligation on the future date specified in the c",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "12576",
+        "score": 0.7085390090942383,
+        "text": "Associated concepts: culpable recklessness, culpably neggigent. See also: accountability, blame, conviction, criminality, delinquency, fault, finding of guilt, guilt, ignominy, impeachability, implication, mens rea, misconduct, misdoing, onus, opprobrium, responsibility.",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "47107",
+        "score": 0.694554328918457,
+        "text": "Pretrial procedures in both civil and criminal cases vary from jurisdiction to jurisdiction. In general terms, it's any of the activities that take place prior to the trial hearing. Civil pretrial procedures. In civil pretrial procedures, it starts from the plaintiff/petitioner filing a complaint in",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "53161",
+        "score": 0.6917890906333923,
+        "text": "Incompetent Principal. A person who becomes incompetent without having made a durable power of attorney cannot make one; her family must ask the court to appoint someone to act on her behalf. Additionally, a person who becomes incompetent after having made a durable power of attorney cannot revoke i",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "1064961",
+    "query": "collages definition",
+    "relevant_pids": [
+      "7163548"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "7163548",
+        "score": 0.912285566329956,
+        "text": "Definition of collage - a piece of art made by sticking various different materials such as photographs and pieces of paper or fabric on to a backing. Definition of collage - a piece of art made by sticking various different materials such as photographs and pieces of paper or fabric on to a backing",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "pid": "97969",
+        "score": 0.8733633160591125,
+        "text": "The benefits of collagen are mostly from the amino acids, and you break down both gelatin and hydrolyzed collagen into the same amino acids in your digestive system anyway, so in terms of health benefits, hydrolyzed collagen and gelatin should be roughly equivalent.",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "7769",
+        "score": 0.7335814833641052,
+        "text": "Gelatin, which is used in food and industry, is collagen that has been irreversibly hydrolyzed. Collagen also has many medical uses in treating complications of the bones and skin. The name collagen comes from the Greek ÎºÏÎ»Î»Î± (kolla), kÃ³lla  meaning , glue and -suffix, -Î³Î­Î½, gen denoting. p",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "7768",
+        "score": 0.7208437919616699,
+        "text": "Collagen /ËkÉlÉdÊÉ¨n/ is the main structural protein in the extracellular space in the various connective tissues in animals. As the main component of connective tissue, it is the most abundant protein in mammals, making up from 25% to 35% of the whole-body protein content.",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "7770",
+        "score": 0.7003875374794006,
+        "text": "Collagen is not only a structural protein. Due to its key role in the determination of cell phenotype, cell adhesion, tissue regulation and infrastructure, many sections of its non-proline-rich regions have cell or matrix association / regulation roles.",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "1064808",
+    "query": "what is acantholysis",
+    "relevant_pids": [
+      "7163603"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "7163603",
+        "score": 0.7464397549629211,
+        "text": "Definition of Acantholysis. 1. Noun. (medicine) The loss of intercellular connections, resulting in loss of cohesion between keratinocytes, seen in diseases such as pemphigus vulgaris.",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "pid": "37241",
+        "score": 0.5374644994735718,
+        "text": "Transient acantholytic dermatosis causes a truncal rash characterised by acantholysis on histopathology. It can be transient, as the name suggests, in contrast to the rare and persistent inherited acantholytic dermatoses, Darier disease and Hailey-Hailey disease. Transient acantholytic dermatosis is",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "15880",
+        "score": 0.532951831817627,
+        "text": "In psychology, centration is the tendency to focus on one salient aspect of a situation and neglect other, possibly relevant aspects. Introduced by the Swiss psychologist Jean Piaget through his cognitive-developmental stage theory, centration is a behaviour often demonstrated in the preoperational ",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "15502",
+        "score": 0.47724252939224243,
+        "text": "âProgression to oliguric or anuric renal failure is rare, with recovery on discontinuation of aminoglycosides the most common outcome.â âHepatorenal syndrome is an acute oliguric renal failure resulting from intense intrarenal vasoconstriction in otherwise normal kidneys.â âWithin 12 hours",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "60727",
+        "score": 0.47090834379196167,
+        "text": "Anabolism vs. Catabolism. Metabolism is a biochemical process that allows an organism to live, grow, reproduce, heal, and adapt to its environment. Anabolism and catabolism are two metabolic processes, or phases. Anabolism refers to the process which builds molecules the body needs; it usually requi",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "1064687",
+    "query": "what is actifed used for",
+    "relevant_pids": [
+      "7163709",
+      "7163703"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "7163703",
+        "score": 0.8739294409751892,
+        "text": "Actifed is a registered trademark for a combination antihistamine and nasal decongestant medication used for cold and allergy symptoms. Developed in 1958 by Burroughs Wellcome & Company (now part of GlaxoSmithKline),[1] the product was later acquired by Pfizer, and was most recently sold by Johnson ",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "pid": "7163709",
+        "score": 0.796603262424469,
+        "text": "Actifed is used to treat the following allergy symptoms: 1  Runny nose. 2  Sneezing. 3  Itchy, watery eyes. 4  Nasal congestion. 5  Itching of the nose or throat.",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "pid": "45055",
+        "score": 0.485519677400589,
+        "text": "Activyl is a spot-on flea treatment for dogs and cats. Active Ingredients. Activyl contains 195 mg of indoxacarb and 354 mg of isopropyl alcohol per mL.",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "11134",
+        "score": 0.42411455512046814,
+        "text": "FLORA PRO ACTIV. Flora pro-activ Spreads are enriched with plant sterols, clinically proven to actively lower your cholesterol by 10-15% when moving to a healthy lifestyle and diet. Flora pro-activ is Heart foundation tick approved as a healthier spread for trans fats, saturated fats and sodium.Eati",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "15041",
+        "score": 0.42331063747406006,
+        "text": "Concerta (methylphenidate) is a central nervous system stimulant. It affects chemicals in the brain and nerves that contribute to hyperactivity and impulse control. Concerta extended-release tablets are used to treat attention deficit disorder (ADD), attention deficit hyperactivity disorder (ADHD), ",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "1064529",
+    "query": "what is adipocere",
+    "relevant_pids": [
+      "7163878"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "90355",
+        "score": 0.6458575129508972,
+        "text": "By providing the body fat calculator with information about age, weight, gender, the body fat calculator can provide general information on body fat percentage. Body fat scales and body composition monitors can help you monitor your fat loss.",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "90352",
+        "score": 0.6195098757743835,
+        "text": "To calculate your total body fat, which is based on your size is known as the Body Fat Calculator. Exploit the metric units tab, if you are more relaxed with the international standard metric units. For acquiring the best results, evaluate to the nearby 1/4 inch (0.5cm).",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "3753",
+        "score": 0.5609627962112427,
+        "text": "There 2 types of fat in the body. Only the Subcutaneous Fat is removed by the body. 1  Subcutaneous Fat: The fat that lies just under the skin; it acts as a buffer to support the skin and is an energy storage material.  Visceral Fat: This is the fat that is packed around the organs.",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "38669",
+        "score": 0.5597565174102783,
+        "text": "A reasonably accurate estimation of body fat can be obtained by means of a two compartment model of the human body which is based upon two simplifying assumptions: 1. Human fat has a density of 0.9 grams/ml, and 2. The lean (non-fat) components of the human body have an overall density of 1.1 grams/",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "28660",
+        "score": 0.5483413338661194,
+        "text": "(Redirected from Abdominal adiposity) Abdominal obesity, also known as central obesity, is when excessive abdominal fat around the stomach and abdomen has built up to the extent that it is likely to have a negative impact on health. There is a strong correlation between central obesity and cardiovas",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "1064473",
+    "query": "what is adventure time?",
+    "relevant_pids": [
+      "7164008"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "7164008",
+        "score": 0.9161852598190308,
+        "text": "Adventure Time. Adventure Time[nb 3] is an American animated television series created by Pendleton Ward for Cartoon Network. It follows the adventures of a boy named Finn (voiced by Jeremy Shada) and his best friend and adoptive brother Jake (John DiMaggio)âa dog with the magical power to change ",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "pid": "8857",
+        "score": 0.7497338652610779,
+        "text": "Disney California Adventure. Disney California Adventure Park, commonly referred to as Disney California Adventure, California Adventure, or DCA, is a theme park located in Anaheim, California. It is owned and operated by The Walt Disney Company through its Parks and Resorts division.",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "63896",
+        "score": 0.6590192317962646,
+        "text": "Disneyland Park, originally and colloquially known as Disneyland, is the first and original Disney theme park at the Disneyland Resort in Anaheim, California and is owned and operated by The Walt Disney Company.",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "56969",
+        "score": 0.649456262588501,
+        "text": "No, the Pre-K Season Pass does not include any special Batman or Superman Pass benefits. The Pre-K Season Pass includes unlimited admission to Six Flags Discovery Kingdom, unlimited admission to other Six Flags Theme Parks, special days to bring a friend for a discount or for free and in-park discou",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "8850",
+        "score": 0.6486430168151855,
+        "text": "Disney California Adventure. Disney California Adventure Overview. Combine the magic of Disney with the best that California has to offer and the result is Disney California Adventure, a theme park that celebrates the California in style. When you enter the gates of this park, you are transported to",
+        "relevant": false
+      }
+    ]
+  }
+]

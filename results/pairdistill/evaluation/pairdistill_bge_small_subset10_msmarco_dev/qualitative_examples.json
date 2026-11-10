@@ -1,0 +1,443 @@
+[
+  {
+    "qid": "9083",
+    "query": "____________________ is considered the father of modern medicine.",
+    "relevant_pids": [
+      "7067274"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "7067274",
+        "score": 0.7201489210128784,
+        "text": "TRUE. Hippocrates is considered the father of modern medicine because he did not believe that illness was a punishment inflicted by the gods. True False. Weegy: TRUE. [ ",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "pid": "435794",
+        "score": 0.6578536629676819,
+        "text": "How the Scots Invented the Modern World. How the Scots Invented the Modern World: The True Story of How Western Europe's Poorest Nation Created Our World & Everything in It (or The Scottish Enlightenment: The Scots invention of the Modern World) is a non-fiction book written by American historian Ar",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "357324",
+        "score": 0.6561368107795715,
+        "text": "The scientific revolution was the emergence of modern science during the early modern period, when developments in mathematics, physics, astronomy, biology (including human anatomy) and chemistry transformed views of society and nature.",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "529797",
+        "score": 0.6514186263084412,
+        "text": "Medicinae Doctor, Doctor of Medicine. What Does Md Stand For. MD does NOT stand for medical doctor, although that's the common interpretation. MD is a Latin abbreviation, Medicinae Doctor. Its English translation is Doctor of Medicine. Similarly, a PhD stands for Philosophiae Doctor, or Doctor of Ph",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "670242",
+        "score": 0.6494783163070679,
+        "text": "The kind of food that people ate during the Renaissance depended on where they lived and whether they were wealthy or a peasant. The average person during the Renaissance was a peasant. Peasants would eat soup or mush for food just about every meal. They would also generally have some black bread.",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "264827",
+    "query": "how long is the flight from chicago to cairo",
+    "relevant_pids": [
+      "7071066"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "7071066",
+        "score": 0.9363831877708435,
+        "text": "Flying time from Chicago, IL to Cairo, Egypt. The total flight duration from Chicago, IL to Cairo, Egypt is 12 hours, 47 minutes. This assumes an average flight speed for a commercial airliner of 500 mph, which is equivalent to 805 km/h or 434 knots. It also adds an extra 30 minutes for take-off and",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "pid": "632137",
+        "score": 0.9078118801116943,
+        "text": "More trip calculations. 1  flying distance from Dubai, United Arab Emirates to Cairo, Egypt. 2  direct flights from Dubai, United Arab Emirates to Cairo, Egypt. 3  reverse flying time from Cairo, Egypt to Dubai, United Arab Emirates. 4  airports near Cairo, Egypt. 5  airlines that fly to Cairo, Egyp",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "364049",
+        "score": 0.8738065958023071,
+        "text": "Households in Cairo, GA have a median income of $25,459. This chart shows the median household income of Cairo, GA compared to its parent locations.",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "632136",
+        "score": 0.8473362922668457,
+        "text": "Your trip begins in Dubai, United Arab Emirates. It ends in Cairo, Egypt. Your flight direction from Dubai, United Arab Emirates to Cairo, Egypt is West (-72 degrees from North). The distance calculator helps you figure out how far it is to fly from Dubai, United Arab Emirates to Cairo, Egypt. It do",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "632140",
+        "score": 0.8354018330574036,
+        "text": "More trip calculations. 1  flight time from Dubai, United Arab Emirates to Cairo, Egypt. 2  direct flights from Dubai, United Arab Emirates to Cairo, Egypt. 3  reverse flying distance from Cairo, Egypt to Dubai, United Arab Emirates.",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "14151",
+    "query": "age requirements for name change",
+    "relevant_pids": [
+      "7073772"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "86123",
+        "score": 0.8556382656097412,
+        "text": "How long does it take to legally change my name? Name change actions can take anywhere from a day, to six (6) months (sometimes even longer). The time it takes for name change actions to be ordered/decreed varies not only from state to state but from county to county and courthouse to courthouse as ",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "755801",
+        "score": 0.8418559432029724,
+        "text": "Name Change Forms. Here are the forms for changing a name in the Civil or Supreme Court. There are different forms to request a name change for an adult and a child. If you want to change your name because you are getting married or divorced go to the Changing Your Name Through Marriage or Divorce p",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "264172",
+        "score": 0.8078386783599854,
+        "text": "If you live in New York City, you may bring a name change proceeding in any county in the city. It costs $65.00 to change a name in Civil Court. You can use the Civil Court's free and easy DIY (Do-It-Yourself) Forms to make an adult name change Petition or a minor name change Petition.Or go the Name",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "39406",
+        "score": 0.7783405184745789,
+        "text": "Why it won't work: There are limits to how often you can change your name on Google+. The solution: You can change your name three times every 90 days. If you've recently changed your name three times, you may need to wait for up to three months to change it again. Why it won't work: Our system expe",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "610495",
+        "score": 0.7756168246269226,
+        "text": "If you're a man changing your name at marriage, check your marriage certificate to see if there is a space to indicate a name change. If not, you will need court papers to legally change your name. Contact a local attorney to find out the procedure for name changing in your state. (This is not neces",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "307118",
+    "query": "how much do rear brakes and rotors cost",
+    "relevant_pids": [
+      "7076536"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "163548",
+        "score": 0.932598352432251,
+        "text": "At most dealerships or other types of repair facilities, replacing your brake rotors, on average, will cost somewhere between $30 and $60 for each of the wheels.Replacing brake rotors is considered more labor intensive than just doing normal brake maintenance jobs, like replacing your brake pads.aki",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "163549",
+        "score": 0.9212630391120911,
+        "text": "A brake rotor is a smooth metal disc attached to the wheel hub. Most new cars (1999 and above) come with rotors at each wheel. Older cars may have drums instead of rotors at the rear wheels. Brake rotors play an important part in the braking system.It is the friction between brake pads and rotors th",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "600888",
+        "score": 0.9156047701835632,
+        "text": "The Improved Stopping Power Of Performance Brake Rotors Over Stock Brake Rotors. Customers always ask, what is the advantage of drilled and or slotted brake rotors over stock plain brake rotors? The advantage of slots is that it dramatically improves stopping power.",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "391444",
+        "score": 0.9107778668403625,
+        "text": "Most modern passenger vehicles use disc brake systems on all four wheels. Brake rotors are the final part of the braking system and use friction created by the brake pads to slow or stop the vehicle. What will be the cost to replace brakes and rotors can vary. It will all depend upon individual on w",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "391446",
+        "score": 0.9102833867073059,
+        "text": "There are a few other pieces of hardware that are found in the brake system which might need to be serviced as well, including calipers and rotors, but the most common service will be to replace brake pads. And the average cost for a Brake Rotor Replacement is between $406 and $559.",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "1065160",
+    "query": "what is a wrongful act for directors and officers",
+    "relevant_pids": [
+      "7163370"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "7163370",
+        "score": 0.8710615038871765,
+        "text": "Wrongful Act Definition - What does Wrongful Act mean? A wrongful act refers to any error or breach of conduct covered under professional liability insurance, which provides the officers and directors of an insured company financial protection from the liability arising from alleged erroneous acts.",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "pid": "626669",
+        "score": 0.8229929804801941,
+        "text": "Many jurisdictions provide tribunals or courts which will hear actions for wrongful dismissal. A proven wrongful dismissal will tend to lead to two main r. emedies: reinstatement of the dismissed employee, and/or monetary compensation for the wrongfully dismissed.",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "163753",
+        "score": 0.7875669598579407,
+        "text": "indictment - an accusation of wrongdoing; the book is an indictment of modern philosophy. accusal, accusation - a formal charge of wrongdoing brought against a person; the act of imputing blame or guilt.",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "849135",
+        "score": 0.769936740398407,
+        "text": "by FreeAdvice staff. Every state has a limit on the amount of time a person has to file a wrongful death lawsuit in court. The length of time can vary, from one year to as long as three years. This time limit is called the statute of limitations. If you do not file your wrongful death action on time",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "154119",
+        "score": 0.7608048915863037,
+        "text": "Wrongful birth and wrongful life lawsuits are just plain wrong. ADVERTISEMENT. ADVERTISEMENT. The wrongful birth suit is brought by the parents of a sick or disabled child against a physician that, the parents say, was negligent.The wrongful birth lawsuit does not say that the doctor caused the dise",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "1064961",
+    "query": "collages definition",
+    "relevant_pids": [
+      "7163548"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "853110",
+        "score": 0.9271273612976074,
+        "text": "Select seven or more photos that you'd like to group together in a collage. On the Create tab, in the Tools group, click Auto Collage. â or â. Click the Auto Collage dropdown menu to choose the collage size and layout you want.",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "853104",
+        "score": 0.9141647815704346,
+        "text": "Creating your own photo collage is so simple: upload your photos to the 'My Photos' area. From there you can drag them into the desired position in your collage. Try it out! If you want to see how this app works, you can try out the test to create a photo collage here. 1  Auto-fill. 2  Edit text. 3 ",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "699940",
+        "score": 0.8256424069404602,
+        "text": "1 There are at least 16 types of collagen, but 80-90% of the collagen in the body consists of types I, II, and III. 2  Type I collagen fibrils are stronger than steel (gram for gram).  Collagen is most commonly found within the body in the skin, bones and connective tissues.",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "447177",
+        "score": 0.8084213137626648,
+        "text": "The story of gelatin actually starts with a protein called collagen. Collagen is the most important protein in connective tissue, skin, and bones; you actually have more collagen in your body than any other type of protein.he story of gelatin actually starts with a protein called collagen. Collagen ",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "229863",
+        "score": 0.7986268401145935,
+        "text": "The capsule and trabeculae of the spleen are composed of dense fibrous irregularly arranged connective tissue. Type I collagen is the most prevalent kind of collagen in loose and dense connective tissues. Type II collagen is present in hyaline and elastic cartilage. Type I collagen resists tension, ",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "1064808",
+    "query": "what is acantholysis",
+    "relevant_pids": [
+      "7163603"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "37241",
+        "score": 0.8580467700958252,
+        "text": "Transient acantholytic dermatosis causes a truncal rash characterised by acantholysis on histopathology. It can be transient, as the name suggests, in contrast to the rare and persistent inherited acantholytic dermatoses, Darier disease and Hailey-Hailey disease. Transient acantholytic dermatosis is",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "13980",
+        "score": 0.7306049466133118,
+        "text": "The Rhone RhÃ´ne glacier Above, Oberwald switzerland is the source of the. River The rhone rhÃ´ne flowing through the valleys Of The swiss alps and Arriving Into, lake Geneva. In Switzerland the rhone rhÃ´ne rises as an Effluent Of the Rhone, rhÃ´ne glacier In Valais, in the swiss alps at 2,208 alti",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "50955",
+        "score": 0.729874312877655,
+        "text": "STEREOISOMERISM-OPTICAL ISOMERISM. Optical isomerism is a form of stereoisomerism. This page explains what stereoisomers are and how you recognise the possibility of optical isomers in a molecule.his enantiomer is known as the (+) form. For example, one of the optical isomers (enantiomers) of the am",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "536676",
+        "score": 0.7236917018890381,
+        "text": "The Bartholin's (BAHR-toe-linz) glands are located on each side of the vaginal opening. These glands secrete fluid that helps lubricate the vagina. Sometimes the openings of these glands become obstructed, causing fluid to back up into the gland. The result is relatively painless swelling called a B",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "769322",
+        "score": 0.7180573344230652,
+        "text": "Time period. Northern Renaissance refers to artistic developments in Northern Europe (Flanders, Netherlands, Germany, England) during the 1400âs and 1500âs. The Renaissance was developing in the Northern Europe contemporaneously with the Italian Renaissance.",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "1064687",
+    "query": "what is actifed used for",
+    "relevant_pids": [
+      "7163709",
+      "7163703"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "7163709",
+        "score": 0.8649290204048157,
+        "text": "Actifed is used to treat the following allergy symptoms: 1  Runny nose. 2  Sneezing. 3  Itchy, watery eyes. 4  Nasal congestion. 5  Itching of the nose or throat.",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "pid": "7163703",
+        "score": 0.8587577939033508,
+        "text": "Actifed is a registered trademark for a combination antihistamine and nasal decongestant medication used for cold and allergy symptoms. Developed in 1958 by Burroughs Wellcome & Company (now part of GlaxoSmithKline),[1] the product was later acquired by Pfizer, and was most recently sold by Johnson ",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "pid": "100978",
+        "score": 0.6932237148284912,
+        "text": "The objective of this study was to determine the susceptibility of oral isolates of Actinomyces naeslundii, Actinomyces gerencseriae, Actinomyces israelii, Actinomyces viscosus, and Actinomyces odontolyticus to amoxicillin, clindamycin, doxycycline, metronidazole, and moxifloxacin using in vitro ass",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "647098",
+        "score": 0.6141101121902466,
+        "text": "Argentina and Uruguay are the top 2 countries in the world in consumption of meat per capita. Definitely check out Argentine barbecue: asado, sometimes also called parrillada, because it is made on a parrilla, or grill.",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "299371",
+        "score": 0.6041370034217834,
+        "text": "Abiomed is a pioneer and global leader in healthcare technology and innovation. From the worldâs first total replacement heart to the worldâs smallest heart pump, Abiomed is dedicated to finding ways to bring the most advanced and beneficial technology to patients and physicians. Learn More Join",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "1064529",
+    "query": "what is adipocere",
+    "relevant_pids": [
+      "7163878"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "7163878",
+        "score": 0.7896256446838379,
+        "text": "adipocere adÂ·iÂ·poÂ·cere (Äd'É-pÅ-sÄr') n. A brown, fatty, waxlike substance that forms on dead animal tissue in response to moisture. Also called lipocere.",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "pid": "651259",
+        "score": 0.7762089967727661,
+        "text": "Other LOW concerns: Data gaps. 1  About GLYCERYL STEARATE SE: Glyceryl Stearate SE (self-emulsifying) is a lipid used as surfactant and emulsifying agent. 2  Function(s): Surfactant - Emulsifying Agent. 3  Synonym(s): OCTADECANOIC ACID, ESTER WITH 1,2,3PROPANETRIOL; SELF-EMULSIFYING GLYCERYL MONOSTE",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "711512",
+        "score": 0.772487461566925,
+        "text": "When we require precertification. Precertification occurs before inpatient admissions and select ambulatory procedures and services. You can submit a precertification by electronic data interchange (EDI), through our secure provider website or by phone, using the number on the memberâs ID card.",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "651253",
+        "score": 0.7568945288658142,
+        "text": "Glyceryl Stearate (GMS) Glyceryl Stearate, also known as Glyceryl MonoStearate, or GMS, is EcoCert certified. Glyceryl Stearate is the natural glyceryl ester from stearic acid (glycerin and stearic acid) which offers skin conditioning, moisturization and hydration due to the glycerin component.. Fun",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "651257",
+        "score": 0.7518778443336487,
+        "text": "Know Your Ingredients: Glyceryl Stearate. What it is. Glyceryl Stearate (also called Glyceryl Monostearate) is a white or cream-coloured solid made from glycerin and stearic acid (a fatty acid obtained from animal and vegetable fats and oils). What it does. Glyceryl Stearate is an emollient that sof",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "1064473",
+    "query": "what is adventure time?",
+    "relevant_pids": [
+      "7164008"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "7164008",
+        "score": 0.9360440969467163,
+        "text": "Adventure Time. Adventure Time[nb 3] is an American animated television series created by Pendleton Ward for Cartoon Network. It follows the adventures of a boy named Finn (voiced by Jeremy Shada) and his best friend and adoptive brother Jake (John DiMaggio)âa dog with the magical power to change ",
+        "relevant": true
+      },
+      {
+        "rank": 2,
+        "pid": "150732",
+        "score": 0.6729694604873657,
+        "text": "Trivia. 1  Timon was animated by Michael Surrey in The Lion King and Alexs Stadermann in The Lion King 1Â½ 2  . A real meerkat at the Fellow Earthlings Wildlife Center near Palm Springs, California, was the inspiration for the movie version of Timon and was his namesake.",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "41820",
+        "score": 0.6715439558029175,
+        "text": "Before Daly, Danny Clark provided the voice of Superman for the Hanna-Barbera animated Super Friends series during the â70s and â80s â and of course, Bud Collyer has the distinct honor of being the first voice of Superman on The Adventures of Superman radio show during the â40s.",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "428515",
+        "score": 0.6629995107650757,
+        "text": "Six Flags Great America announces new free-fly roller coaster: The Joker. Officials at Six Flags Great America in Gurnee announced on Thursday, Sept. 1, that a new free-fly roller coaster called The Joker is scheduled to open in spring 2017 in the parkâs Yankee Harbor sectionâ¦.",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "637346",
+        "score": 0.6603531837463379,
+        "text": "Family Guy fans will probably have to wait many moons before Seth MacFarlane gets to spoof Star Wars: Episode VII â The Force Awakens. However, they can get a glimpse of what the animated parody might look like by checking out a faux teaser trailer featuring Peter Griffin and the gang.",
+        "relevant": false
+      }
+    ]
+  }
+]

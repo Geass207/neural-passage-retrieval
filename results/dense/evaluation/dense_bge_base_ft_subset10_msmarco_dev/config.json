@@ -1,0 +1,10 @@
+{
+  "dataset": "msmarco",
+  "split": "dev",
+  "model": "BAAI/bge-base-en-v1.5",
+  "model_path": "results/bge_base_biencoder_ft/best_checkpoint",
+  "subset_pct": 0.1,
+  "seed": 42,
+  "n_queries": 6980,
+  "n_corpus": 884182
+}

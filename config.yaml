@@ -1,0 +1,12 @@
+dataset:
+  name: msmarco        # changer ici pour swapper le dataset
+  split: dev
+  data_dir: data/
+
+retrieval:
+  top_k: 100
+
+bm25:
+  index_path: data/msmarco/bm25_index.pkl  # changer le chemin ici aussi si besoin
+
+# Token Hugging Face : copier .env.example vers .env et renseigner HF_TOKEN

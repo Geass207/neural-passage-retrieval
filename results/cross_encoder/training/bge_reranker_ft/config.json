@@ -1,0 +1,11 @@
+{
+  "model": "BAAI/bge-reranker-base",
+  "epochs": 1,
+  "batch_size": 2,
+  "lr": 2e-05,
+  "max_seq_length": 256,
+  "max_train_triplets": 5000,
+  "warmup_ratio": 0.1,
+  "output_dir": "results/cross_encoder/training/bge_reranker_ft",
+  "seed": 42
+}

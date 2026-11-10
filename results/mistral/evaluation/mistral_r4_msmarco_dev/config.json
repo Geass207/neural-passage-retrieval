@@ -1,0 +1,22 @@
+{
+  "date": "2026-04-30T00:58:38.140847",
+  "dataset": "msmarco",
+  "split": "dev",
+  "base_model": "mistralai/Mistral-7B-Instruct-v0.2",
+  "adapter_path": "results/mistral_lora_r4/best_checkpoint",
+  "zero_shot": false,
+  "lora_rank": 4,
+  "top_k_first": 20,
+  "top_k_rerank": 10,
+  "batch_size": 8,
+  "latency_ms_per_query": 2635.9453291893005,
+  "n_queries": 500,
+  "n_corpus": 130612,
+  "metrics_bm25": {
+    "MRR@10": 0.16478809523809523,
+    "nDCG@10": 0.20470074437540173,
+    "Recall@10": 0.3411666666666667,
+    "Recall@50": 0.4206666666666667,
+    "Recall@100": 0.4206666666666667
+  }
+}

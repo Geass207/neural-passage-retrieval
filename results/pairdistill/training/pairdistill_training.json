@@ -1,0 +1,28 @@
+{
+  "config": {
+    "epochs": 2,
+    "batch_size": 16,
+    "learning_rate": 2e-05,
+    "weight_decay": 0.01,
+    "max_grad_norm": 1.0,
+    "teacher_temperature": 5.0,
+    "student_temperature": 1.0,
+    "hard_labels": false,
+    "normalize_embeddings": true,
+    "warmup_ratio": 0.0,
+    "seed": 42
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "loss": 0.6431147246852965,
+      "examples": 39983
+    },
+    {
+      "epoch": 2,
+      "loss": 0.6240794886492164,
+      "examples": 39983
+    }
+  ],
+  "num_examples": 39983
+}

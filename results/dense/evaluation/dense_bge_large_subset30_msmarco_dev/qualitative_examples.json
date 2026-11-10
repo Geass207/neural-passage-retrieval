@@ -1,0 +1,445 @@
+[
+  {
+    "qid": "985158",
+    "query": "why are lymph nodes swelling in growing area",
+    "relevant_pids": [
+      "7295448"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "3138431",
+        "score": 0.8212890625,
+        "text": "Lymph nodes swell from an infection in the area where they are located. For example, the lymph nodes in the neck can become swollen in response to an upper respiratory infection, like the common cold.",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "1207549",
+        "score": 0.81689453125,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "181740",
+        "score": 0.81201171875,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "8776042",
+        "score": 0.80517578125,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "2347315",
+        "score": 0.802734375,
+        "text": "",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "172981",
+    "query": "does the subconscious control your breathing",
+    "relevant_pids": [
+      "7315531"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "3646556",
+        "score": 0.8154296875,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "7315531",
+        "score": 0.74072265625,
+        "text": "These subconscious functions are expressed through the autonomic nervous system and govern subconscious bodily functions like your heart beat, breathing, the pumping of blood, cellular function, the continuous operation of physical organs etc.",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "pid": "3683815",
+        "score": 0.736328125,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "411424",
+        "score": 0.72802734375,
+        "text": "Best Answer: Well it's automatic, otherwise you would die in you sleep, but, whilst you are awake, you can of course control it. In terms of the action, breathing is a voluntary action and respiration is an involuntary action. Source(s): http://www.differencebetween.net/science... The act of normal ",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "4111927",
+        "score": 0.69873046875,
+        "text": "Breathing can be a conscious or unconscious act. We can hold our breath or breathe deep even while the rest of our body is asleep. Without the respiratory system our body could not get the vital oxygen it needs to function. Lungs themselves are made of a soft, spongy material that contain no muscle ",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "1095055",
+    "query": "how soon do symptoms show up for hiv",
+    "relevant_pids": [
+      "7619619"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "4979826",
+        "score": 0.87158203125,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "7885303",
+        "score": 0.85546875,
+        "text": "What are the symptoms of HIV and when do they appear? Most people who are infected with HIV experience a short, flu-like illness that occurs between two and six weeks after infection. After this, HIV often causes no symptoms for several years. It's estimated that up to 80% of people who are infected",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "350568",
+        "score": 0.84765625,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "3738444",
+        "score": 0.84619140625,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "4177234",
+        "score": 0.84033203125,
+        "text": "Most people who are infected with HIV experience a short, flu-like illness that occurs between two and six weeks after infection. After this, HIV often causes no symptoms for several years. It's estimated that up to 80% of people who are infected with HIV experience this flu-like illness. The most c",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "1077844",
+    "query": "what information do i need to get a home loan",
+    "relevant_pids": [
+      "7151513"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "1430827",
+        "score": 0.7890625,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "4272589",
+        "score": 0.77392578125,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "5016009",
+        "score": 0.76953125,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "3781524",
+        "score": 0.75732421875,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "2071281",
+        "score": 0.75634765625,
+        "text": "",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "627323",
+    "query": "what doctors have expertise in hashimoto's disease",
+    "relevant_pids": [
+      "7511316"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "7511310",
+        "score": 0.7724609375,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "6000028",
+        "score": 0.72607421875,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "6109650",
+        "score": 0.72509765625,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "3688865",
+        "score": 0.71923828125,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "1206182",
+        "score": 0.7158203125,
+        "text": "",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "1017971",
+    "query": "define cyclophosphamide",
+    "relevant_pids": [
+      "7237117"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "5689168",
+        "score": 0.82470703125,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "7562431",
+        "score": 0.75537109375,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "7419441",
+        "score": 0.71240234375,
+        "text": "Cytoxan (cyclophosphamide) is a cancer (chemotherapy) medication used to treat several types of cancer. Cytoxan is also used to treat certain cases of nephrotic syndrome (kidney disease) in children. Common side effects of Cytoxan include: nausea or vomiting (may be severe), loss of appetite, stomac",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "7562430",
+        "score": 0.6875,
+        "text": "Cytoxan Description. 1  CytoxanÂ® (cyclophosphamide for injection, USP) is a sterile white powder containing cyclophosphamide monohydrate. Cytoxan Tablets (cyclophosphamide tablets, USP) are for oral use and contain 25 mg or 50 mg cyclophosphamide (anhydrous).",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "6460477",
+        "score": 0.6552734375,
+        "text": "",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "565696",
+    "query": "what are some operating systems for computers",
+    "relevant_pids": [
+      "7434273",
+      "7434268",
+      "5097336",
+      "7434272"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "2449201",
+        "score": 0.7744140625,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "4484281",
+        "score": 0.77392578125,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "2449199",
+        "score": 0.765625,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "4939642",
+        "score": 0.7607421875,
+        "text": "Use operating system (OS) in a sentence. Make sure that your companies computers have a good and easy to use operating system so that things run smoothly. Windows may be the most popular operating system for the masses, but for security and other IT professionals, Linux can also be a great choice.",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "3893937",
+        "score": 0.75634765625,
+        "text": "Ubuntu and Mint are some of the most popular. If you want to install a non-Windows operating system on your PC and actually use it, you should probably pick Linux. Linux is a Unix-like operating system, and there are other open-source operating systems like FreeBSD out there.FreeBSD uses a different",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "594793",
+    "query": "what channel is univision?",
+    "relevant_pids": [
+      "7598917"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "8029612",
+        "score": 0.68896484375,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "7598912",
+        "score": 0.66064453125,
+        "text": "All of Univision's 2010 FIFA World Cup coverage was also in HD. Noticiero Univision, Primer Impacto, Â¡Despierta AmÃ©rica!, Al Punto, Mira Quien Baila, and Â¡Viva la Familia! have began airing in HD as well. Some movies also air in HD. DirecTV added the East Coast HD feed on April 28, 2010.",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "2748306",
+        "score": 0.6396484375,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "6690308",
+        "score": 0.63037109375,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "2291052",
+        "score": 0.61767578125,
+        "text": "",
+        "relevant": false
+      }
+    ]
+  },
+  {
+    "qid": "178325",
+    "query": "effect of salt on water boiling point",
+    "relevant_pids": [
+      "7399376"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "7399375",
+        "score": 0.82763671875,
+        "text": "1 The Effect of Salt on the Boiling Temperature of Water: Another experiment that demonstrates how salt affects waterâs boiling temperature. 2  Properties of Salt and Water: Discusses the properties of salt and water and why they change.  Boiling Point Elevation: Outlines the chemical sequence of ",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "8423833",
+        "score": 0.8173828125,
+        "text": "Adding salt to water elevates the boiling point and to increase the boiling point of 1 quart of water by 1 degree Fahrenheit you would need 3 tablespoons of salt. And, that is way too much salt for anyoneâs taste buds.â",
+        "relevant": false
+      },
+      {
+        "rank": 3,
+        "pid": "6587273",
+        "score": 0.81591796875,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "3842142",
+        "score": 0.81591796875,
+        "text": "As the altitude increases, the boiling point of water decreases. Below sea level, the boiling point of water increases. The purity of the water also affects its boiling point. For instance, salt water boils at a higher temperature than pure water. It is easy to boil water.",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "7399376",
+        "score": 0.8154296875,
+        "text": "This is true for something like salt, which elevates the boiling temperature of water in a process known as boiling point elevation. Basically, water is known as a solvent and salt is known as a non-volatile solute. When you add something like salt to a solvent like water, it makes water become an i",
+        "relevant": true
+      }
+    ]
+  },
+  {
+    "qid": "427532",
+    "query": "is the teachers salary better in a charter school",
+    "relevant_pids": [
+      "7484754"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "pid": "5039801",
+        "score": 0.81494140625,
+        "text": "Charter and private schools are more likely than district schools to tie some portion of teachersâ. pay to performance, and a significant number also use higher pay to fill hard-to-staff positions. Charter and private schools also make much greater use of non-financial rewards than district. schoo",
+        "relevant": false
+      },
+      {
+        "rank": 2,
+        "pid": "7484754",
+        "score": 0.80810546875,
+        "text": "The typical Charter Schools USA Teacher salary is $40,756. Teacher salaries at Charter Schools USA can range from $30,937-$53,848. This estimate is based upon 57 Charter Schools â¦ USA Teacher salary report(s) provided by employees or estimated based upon statistical methods. See all Teacher salari",
+        "relevant": true
+      },
+      {
+        "rank": 3,
+        "pid": "8705911",
+        "score": 0.77490234375,
+        "text": "The average salary for charter schools usa jobs is $59,133*.",
+        "relevant": false
+      },
+      {
+        "rank": 4,
+        "pid": "6625341",
+        "score": 0.7724609375,
+        "text": "",
+        "relevant": false
+      },
+      {
+        "rank": 5,
+        "pid": "7429285",
+        "score": 0.7509765625,
+        "text": "",
+        "relevant": false
+      }
+    ]
+  }
+]

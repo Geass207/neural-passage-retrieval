@@ -1,0 +1,7 @@
+{
+  "n_examples": 20000,
+  "epochs": 1,
+  "batch_size": 2,
+  "model": "BAAI/bge-base-en-v1.5",
+  "output_path": "results/bge_base_biencoder_ft/best_checkpoint"
+}

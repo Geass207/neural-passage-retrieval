@@ -1,0 +1,63 @@
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Données (trop volumineuses pour git)
+data/msmarco/corpus.jsonl
+data/msmarco/queries.jsonl
+data/msmarco/qrels/
+data/msmarco/_tmp/
+data/msmarco/bm25_index.pkl
+
+# Résultats — on ignore les poids de modèles mais on commit métriques et runs
+models/
+results/**/*.safetensors
+results/**/*.bin
+results/**/*.npz
+results/**/*.pkl
+results/**/vocab.txt
+results/**/tokenizer.json
+results/**/tokenizer_config.json
+results/**/special_tokens_map.json
+results/**/sentence_bert_config.json
+results/**/config_sentence_transformers.json
+results/**/modules.json
+results/**/README.md
+results/**/chat_template.jinja
+
+# Notebooks
+.ipynb_checkpoints/
+
+# LaTeX
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# Fichiers secrets — ne jamais committer
+.env
+*.env
+
+# macOS
+*.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Rankings complets et caches
+results/**/run.json
+results/**/results.jsonl
+results/pairdistill_bm25_teacher_*.jsonl
+logs/
+.pytest_cache/
